@@ -3,3 +3,8 @@
 
 # python
 __pycache__/
+
+# packaging
+dist/*
+httpie.egg-info/*
+venv/*
